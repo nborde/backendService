@@ -1,9 +1,12 @@
 {
-"name": "wine-cellar",
-"description": "Wine Cellar Application",
+"name": "erpsoft",
+"description": "Test Application for manage Clients, invoices, products, stock",
 "version": "0.0.1",
 "private": true,
 "dependencies": {
-"express": "3.x"
-}
+	"express": "3.x"
+	},
+"engines": {
+    "node": "0.10.x"
+  	}		
 }
